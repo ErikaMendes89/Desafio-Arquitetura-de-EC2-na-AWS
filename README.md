@@ -19,5 +19,6 @@ Consolidar os aprendizados sobre:
 ```bash
 ├── ec2-architecture.drawio  # Diagrama editável no Draw.io
 └── README.md                # Este arquivo
+````
 
 ![FortniteFirstOrderStormtrooperGIF](https://github.com/user-attachments/assets/3619de6c-5cce-4494-9435-2ea1be8663ec)
